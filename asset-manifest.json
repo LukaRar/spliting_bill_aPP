@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spliting_bill_aPP/static/css/main.a4c28843.css",
+    "main.js": "/spliting_bill_aPP/static/js/main.df7f5fe5.js",
+    "index.html": "/spliting_bill_aPP/index.html",
+    "main.a4c28843.css.map": "/spliting_bill_aPP/static/css/main.a4c28843.css.map",
+    "main.df7f5fe5.js.map": "/spliting_bill_aPP/static/js/main.df7f5fe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c28843.css",
+    "static/js/main.df7f5fe5.js"
+  ]
+}
